@@ -1,0 +1,1 @@
+Nestas aulas, aprendemos a realizar alguns comandos no Git.
